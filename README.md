@@ -1,0 +1,2 @@
+# Locator
+Fivem locator script.
